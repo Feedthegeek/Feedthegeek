@@ -1,7 +1,5 @@
 - Hi, My name is Nicholas Herrick.
-- I’m interested in computers, food and the overall developement and maintenence of the physical and digital world.
 - I’m currently learning Java, C++ and GitHub
-- I’m looking to collaborate on anything that my help could potentially improve.
 - How to reach me: HerrickND@gmail.com
 
 <!---
