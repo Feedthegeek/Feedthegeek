@@ -1,6 +1,6 @@
 - Hi, My name is Nicholas Herrick.
-- I’m currently learning Java, C++ and GitHub
-- How to reach me: HerrickND@gmail.com
+- I’m currently learning Java and C++
+- How to reach me: HerrickND@icloud.com
 
 <!---
 Feedthegeek/Feedthegeek is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
