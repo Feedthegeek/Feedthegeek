@@ -1,5 +1,5 @@
 - Hi, My name is Nicholas Herrick.
-- I’m currently learning Java and C++
+- I’m currently learning Java, C++ and Python
 - How to reach me: HerrickND@icloud.com
 
 <!---
